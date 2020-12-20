@@ -1,0 +1,14 @@
+.gridContainer{
+    margin:2%;
+    align-items: center;
+    justify-content: center;
+    display:flex; flex-direction:row;
+}
+
+.imagestyle{
+    width: 400;
+    height: 400;
+}
+.imagestyle:hover{
+    background-color: brown;
+}
