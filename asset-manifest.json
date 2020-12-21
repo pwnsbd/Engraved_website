@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/engrave-website/static/css/main.0ca94eb1.chunk.css",
+    "main.js": "/engrave-website/static/js/main.dfbb0340.chunk.js",
+    "main.js.map": "/engrave-website/static/js/main.dfbb0340.chunk.js.map",
+    "runtime-main.js": "/engrave-website/static/js/runtime-main.c3863d56.js",
+    "runtime-main.js.map": "/engrave-website/static/js/runtime-main.c3863d56.js.map",
+    "static/js/2.c0c1cba8.chunk.js": "/engrave-website/static/js/2.c0c1cba8.chunk.js",
+    "static/js/2.c0c1cba8.chunk.js.map": "/engrave-website/static/js/2.c0c1cba8.chunk.js.map",
+    "static/js/3.57761021.chunk.js": "/engrave-website/static/js/3.57761021.chunk.js",
+    "static/js/3.57761021.chunk.js.map": "/engrave-website/static/js/3.57761021.chunk.js.map",
+    "index.html": "/engrave-website/index.html",
+    "static/css/main.0ca94eb1.chunk.css.map": "/engrave-website/static/css/main.0ca94eb1.chunk.css.map",
+    "static/js/2.c0c1cba8.chunk.js.LICENSE.txt": "/engrave-website/static/js/2.c0c1cba8.chunk.js.LICENSE.txt",
+    "static/media/Alder oval ornament.cbbdf5da.jpg": "/engrave-website/static/media/Alder oval ornament.cbbdf5da.jpg",
+    "static/media/Cottonwod Plaque.55026a67.jpg": "/engrave-website/static/media/Cottonwod Plaque.55026a67.jpg",
+    "static/media/Custom Elm Stump .b01c2e2b.jpg": "/engrave-website/static/media/Custom Elm Stump .b01c2e2b.jpg",
+    "static/media/Distressed Walnut Picture Frame.40f372b2.jpg": "/engrave-website/static/media/Distressed Walnut Picture Frame.40f372b2.jpg",
+    "static/media/Elm Magnet.20c14818.jpg": "/engrave-website/static/media/Elm Magnet.20c14818.jpg",
+    "static/media/Final.75ab786c.gif": "/engrave-website/static/media/Final.75ab786c.gif",
+    "static/media/Firststep.dcb6e194.gif": "/engrave-website/static/media/Firststep.dcb6e194.gif",
+    "static/media/Free_Wood_Texture_10.195070ab.jpg": "/engrave-website/static/media/Free_Wood_Texture_10.195070ab.jpg",
+    "static/media/Secondstep.03e08688.gif": "/engrave-website/static/media/Secondstep.03e08688.gif",
+    "static/media/Square Alder Coaster.6e7d245d.jpg": "/engrave-website/static/media/Square Alder Coaster.6e7d245d.jpg",
+    "static/media/Thirdstep.31b03e45.gif": "/engrave-website/static/media/Thirdstep.31b03e45.gif",
+    "static/media/engraved-logo.6cf5bdd8.png": "/engrave-website/static/media/engraved-logo.6cf5bdd8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3863d56.js",
+    "static/js/2.c0c1cba8.chunk.js",
+    "static/css/main.0ca94eb1.chunk.css",
+    "static/js/main.dfbb0340.chunk.js"
+  ]
+}
